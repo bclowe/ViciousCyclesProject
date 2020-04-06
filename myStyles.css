@@ -1,0 +1,21 @@
+
+
+    body {
+        width: 70%;
+        margin: 0 auto;
+        font-family:tahoma;
+        color:white;
+        background-color:#E7FBFB; }
+
+    header {
+        text-align: center;
+        font-weight:bold;
+        font-size:4em;
+        color:#010B5B;
+    }
+
+    ul {
+        font-style: italic;
+        
+    }
+    
